@@ -46,3 +46,16 @@ This project implements an Online Test application using Java Swing. It provides
 
 • Java Swing
 
+# Usage:
+
+• Taking the Test
+
+• Launch the application by running java OnlineTest.
+
+• The main window will display the first question with four answer options.
+
+• Select the correct answer and click the "Next" button to proceed to the next question.
+
+• The test will automatically end when all questions are answered or the time limit is reached.
+  Your score will be displayed at the end of the test.
+
